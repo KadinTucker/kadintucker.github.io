@@ -1,0 +1,19 @@
+{
+  "name": "kadintucker",
+  "version": "1.0.0",
+  "description": "A small website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadinTucker/kadintucker.github.io.git"
+  },
+  "author": "Kadin Tucker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KadinTucker/kadintucker.github.io/issues"
+  },
+  "homepage": "https://github.com/KadinTucker/kadintucker.github.io#readme"
+}
